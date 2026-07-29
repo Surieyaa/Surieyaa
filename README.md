@@ -92,7 +92,8 @@ I'm a **B.Tech AI & Data Science** engineer (CGPA **8.45/10**) at Dhaanish Ahmed
 
 `Python` `OpenCV` `Scikit-learn` `NumPy` `Flask` `KNN`
 
-📎 *Repo link to be added — see note at the end of this file*
+
+🔗 [**Live Demo**](https://tarunp.pythonanywhere.com/) · 💻 [**Repository**](https://github.com/tarun05-design/SnapClass)
 
 ---
 
