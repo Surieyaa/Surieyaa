@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6D28D9,100:EC4899&amp;height=220&amp;section=header&amp;text=Hi,%20I'm%20Surieyaa%20S&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Data%20Scientist%20%7C%20AI%20%26%20ML%20Engineer&amp;descAlignY=58&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6D28D9,100:EC4899&amp;height=220&amp;section=header&amp;text=Hi,%20I'm%20Surieyaa%20S&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Data%20Scientist%20%7C%20AI%20%26amp%3B%20ML%20Engineer&amp;descAlignY=58&amp;descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/surieyaa-s/">
   <img src="https://readme-typing-svg.demolab.com/?lines=Turning+raw+data+into+deployed+ML+products;Building+end-to-end+AI+pipelines,+not+just+notebooks;5%2B+production-style+apps+shipped+%26+live;Open+to+Data+Scientist+%2F+ML+Engineer+roles;&amp;font=Fira+Code&amp;center=true&amp;width=650&amp;height=45&amp;color=EC4899&amp;vCenter=true&amp;size=22&amp;pause=1200"/>
