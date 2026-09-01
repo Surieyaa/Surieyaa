@@ -2,18 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6D28D9,100:EC4899&amp;height=220&amp;section=header&amp;text=Hi,%20I'm%20Surieyaa%20S&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Data%20Scientist%20%7C%20AI%20%26amp%3B%20ML%20Engineer&amp;descAlignY=58&amp;descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/surieyaa-s/">
+<a href="https://surieyaa.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com/?lines=Turning+raw+data+into+deployed+ML+products;Building+end-to-end+AI+pipelines,+not+just+notebooks;5%2B+production-style+apps+shipped+%26+live;Open+to+Data+Scientist+%2F+ML+Engineer+roles;&amp;font=Fira+Code&amp;center=true&amp;width=800&amp;height=45&amp;color=EC4899&amp;vCenter=true&amp;size=22&amp;pause=1200"/>
 </a>
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://surieyaa.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/surieyaa-s/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:surieyaa.s@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Surieyaa)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white)](https://leetcode.com/u/Surieyaa/)
-
-<img src="https://komarev.com/ghpvc/?username=Surieyaa&amp;style=for-the-badge&amp;color=ec4899&amp;label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
 
@@ -23,6 +22,7 @@
 
 I'm a **B.Tech AI &amp; Data Science** engineer (CGPA **8.45/10**) at Dhaanish Ahmed College of Engineering who ships — not just trains models in a notebook and stops. Across **7+ full-stack ML projects**, I've owned the complete pipeline: data preprocessing → feature engineering → model tuning → deployment on Streamlit Cloud / Render, with real, clickable live demos.
 
+- 🌐 **Interactive Portfolio:** [**surieyaa.vercel.app**](https://surieyaa.vercel.app/) — live demos, architecture breakdowns &amp; interactive projects
 - 🔭 Currently building **FitAI Pro** — a Flask-based AI fitness &amp; nutrition platform with a RAG chatbot
 - 🌱 Deep focus on **model calibration, threshold optimization, and production deployment under real-world constraints** (e.g., free-tier RAM limits)
 - 🗣️ JLPT N5 certified in Japanese | 150+ problems solved on HackerRank, LeetCode &amp; CodeChef
@@ -220,6 +220,7 @@ I'm actively seeking **Data Scientist**, **ML Engineer**, and **Data Analyst** r
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-surieyaa.vercel.app-6D28D9?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://surieyaa.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/surieyaa-s/)
 [![Gmail](https://img.shields.io/badge/Email-surieyaa.s@gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:surieyaa.s@gmail.com)
 
