@@ -23,7 +23,7 @@
 I'm a **B.Tech AI &amp; Data Science** engineer (CGPA **8.45/10**) at Dhaanish Ahmed College of Engineering who ships — not just trains models in a notebook and stops. Across **7+ full-stack ML projects**, I've owned the complete pipeline: data preprocessing → feature engineering → model tuning → deployment on Streamlit Cloud / Render, with real, clickable live demos.
 
 - 🌐 **Interactive Portfolio:** [**surieyaa.vercel.app**](https://surieyaa.vercel.app/) — live demos, architecture breakdowns &amp; interactive projects
-- 🔭 Currently building **PulseFit AI** — a real-time computer vision personal AI gym trainer &amp; form-coaching platform
+- 🔭 Currently building [**PulseFit AI**](https://github.com/Surieyaa/PulseFit-AI) — a Flask-based AI fitness coach &amp; personal gym trainer (pose estimation, NLP chatbot, 1,300+ exercise GIFs)
 - 🌱 Deep focus on **model calibration, threshold optimization, and production deployment under real-world constraints** (e.g., free-tier RAM limits)
 - 🗣️ JLPT N5 certified in Japanese | 150+ problems solved on HackerRank, LeetCode &amp; CodeChef
 - 💬 Ask me about **Random Forest / SVM pipelines, CNN deployment, or Streamlit/Flask productionization**
@@ -83,93 +83,15 @@ I'm a **B.Tech AI &amp; Data Science** engineer (CGPA **8.45/10**) at Dhaanish A
 
 <br/>
 
-### 🏋️‍♂️ PulseFit AI — Personal AI Gym Trainer
-**An intelligent real-time computer vision workout assistant and posture coaching platform.**
-
-- **Real-Time Pose Estimation & Form Analysis:** Leverages **MediaPipe** and **OpenCV** to track joint angles and skeletal keypoints in real-time, verifying correct exercise posture (squats, bicep curls, push-ups, lateral raises) and preventing workout injuries.
-- **Automated Repetition Counting:** Uses dynamic joint angle thresholding and state-machine logic to track range of motion (ROM) and accurately count reps without manual intervention.
-- **Instant Visual & Audio Feedback:** Delivers immediate corrective cues (e.g., *"keep back straight"*, *"lower your hips"*, *"extend arms fully"*) through live on-screen HUD overlays and voice prompts.
-- **Workout Analytics & Progress Tracking:** Logs workout duration, rep tempo, form accuracy percentages, and estimated caloric expenditure across sets.
-
-`Python` `MediaPipe` `OpenCV` `Computer Vision` `Scikit-learn` `Flask` `Streamlit`
-
----
-
-### 🎓 SnapClass — Face Recognition Attendance System
-**Automated a manual, error-prone attendance process with real-time computer vision.**
-
-- Engineered an end-to-end facial recognition pipeline (detection → feature extraction → classification) using a **K-Nearest Neighbours** classifier for real-time identification
-- **Reduced manual attendance errors by 90%**, directly improving institutional operational efficiency
-- Full stack: face detection &amp; embedding with OpenCV, classification with Scikit-learn, served through Flask
-
-`Python` `OpenCV` `Scikit-learn` `NumPy` `Flask` `KNN`
-
-🔗 [**Live Demo**](https://tarunp.pythonanywhere.com/) · 💻 [**Repository**](https://github.com/tarun05-design/SnapClass) *(collaborative project)*
-
----
-
-### 🌾 CropCycle — Soil-Aware Crop Planning
-**A sustainable-agriculture recommender that turns raw soil readings into an actionable planting decision.**
-
-- Built an interactive **Streamlit** web app that takes last-planted crop or raw NPK/soil readings and outputs crop suitability, estimated yield, water requirement, and a soil health score
-- Trained a **Random Forest + XGBoost** ensemble on Indian agricultural data to generate next-season crop recommendations that support soil health over successive cycles
-- Deployed and live-tested end-to-end on Streamlit Cloud
-
-`Python` `Scikit-learn` `Random Forest` `XGBoost` `Matplotlib` `Streamlit`
-
-🔗 [**Live Demo**](https://cropcycle.streamlit.app/) · 💻 [**Repository**](https://github.com/Surieyaa/nutri-based-crop-recommender)
-
----
-
-### ❤️ Cardio-Sense AI — Cardiovascular Risk Screening
-**My most technically involved project — a clinically-informed risk screener, not just a classifier.**
-
-- Built an ML screening tool estimating cardiovascular disease risk from lifestyle and health indicators, trained on the **BRFSS** public health-survey dataset
-- Used **Random Forest** for feature selection feeding into a **threshold-tuned, isotonic-calibrated SVM** classifier — achieving **ROC-AUC of 0.76**
-- Solved real calibration issues to make predicted probabilities trustworthy, not just accurate at a single cutoff
-
-`Python` `Random Forest` `SVM` `Scikit-learn` `Streamlit`
-
-🔗 [**Live Demo**](https://general-cardiosense.streamlit.app/) · 💻 [**Repository**](https://github.com/Surieyaa/cardiosense)
-
----
-
-### 🤖 AI Smart Recruitment System
-**A recruiter-facing ATS platform powered by semantic search, not keyword matching.**
-
-- Built resume screening and **ATS scoring** using **Sentence-BERT** embeddings for semantic skill matching and candidate ranking
-- Shipped a recruiter analytics dashboard and deployed the full system live on Render
-- Combined **Flask + Hugging Face + BERT + LLM** components into a single production pipeline
-
-`Python` `Flask` `Sentence-BERT` `Hugging Face` `BERT`
-
-🔗 [**Live Demo**](https://ai-smart-recruitment.onrender.com/) · 💻 [**Repository**](https://github.com/Surieyaa/AI_smart_recruitment_host)
-
----
-
-### 🚗 DriveGuard — Driver Drowsiness Detection
-**Real-time safety-critical inference squeezed onto a free-tier server.**
-
-- Built a **CNN** (9-class unified dataset) to classify webcam/video frames as drowsy or alert in real time
-- Converted the model to **TFLite** to fit Render's free-tier RAM constraints without sacrificing inference quality
-- Shipped with live browser-webcam streaming and video-upload analysis behind a custom glassmorphic UI
-
-`Python` `TensorFlow` `CNN` `TFLite` `Flask` `OpenCV`
-
-🔗 [**Live Demo**](https://driveguard-p6ns.onrender.com/) · 💻 [**Repository**](https://github.com/Surieyaa/driveguard-project)
-
----
-
-### ⚡ Energy Recommendation &amp; Consumption Predictor
-**Turning historical + environmental data into actionable energy-saving decisions.**
-
-- Built a predictive model forecasting electricity consumption by analyzing patterns in historical usage data
-- Integrated environmental variables to improve prediction accuracy for smarter energy planning
-- Designed to help organizations cut energy wastage through data-informed decisions
-
-`Python` `Pandas` `Scikit-learn` `Matplotlib`
-
-💻 [**Repository**](https://github.com/Surieyaa/energy_recomendation_project)
+| Project | Description & Key Features | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **🎓 SnapClass** | **Face Recognition Attendance System**<br/>Automates manual attendance via real-time OpenCV facial recognition & KNN classification, reducing logging errors by 90%. | `Python`<br/>`OpenCV`<br/>`Scikit-learn`<br/>`Flask`<br/>`KNN` | [🌐 **Live Demo**](https://tarunp.pythonanywhere.com/)<br/>[💻 **GitHub**](https://github.com/tarun05-design/SnapClass) |
+| **🏋️‍♂️ PulseFit AI** | **Personal AI Gym Trainer & Fitness Coach**<br/>Flask-based AI coach with real-time pose estimation & form correction (MediaPipe/OpenCV), NLP chatbot, 1,300+ exercise GIFs, South Indian diet plans, BMI tracking & PDF reports. | `Python`<br/>`Flask`<br/>`MediaPipe`<br/>`OpenCV`<br/>`NLP` | [💻 **GitHub**](https://github.com/Surieyaa/PulseFit-AI) |
+| **🌾 CropCycle** | **Soil-Aware Crop Planning**<br/>Interactive agriculture recommender using Random Forest + XGBoost on soil/NPK readings to output crop suitability, expected yield, and water needs. | `Python`<br/>`Random Forest`<br/>`XGBoost`<br/>`Streamlit` | [🌐 **Live Demo**](https://cropcycle.streamlit.app/)<br/>[💻 **GitHub**](https://github.com/Surieyaa/nutri-based-crop-recommender) |
+| **❤️ Cardio-Sense AI** | **Cardiovascular Risk Screening**<br/>Clinically-informed lifestyle risk screener trained on BRFSS dataset using threshold-tuned, isotonic-calibrated SVM (ROC-AUC 0.76). | `Python`<br/>`SVM`<br/>`Random Forest`<br/>`Streamlit` | [🌐 **Live Demo**](https://general-cardiosense.streamlit.app/)<br/>[💻 **GitHub**](https://github.com/Surieyaa/cardiosense) |
+| **🤖 AI Smart Recruitment** | **Semantic ATS Platform**<br/>Recruiter platform powered by Sentence-BERT embeddings for semantic skill matching, resume ranking, and interactive recruitment analytics. | `Python`<br/>`Flask`<br/>`Sentence-BERT`<br/>`BERT` | [🌐 **Live Demo**](https://ai-smart-recruitment.onrender.com/)<br/>[💻 **GitHub**](https://github.com/Surieyaa/AI_smart_recruitment_host) |
+| **🚗 DriveGuard** | **Driver Drowsiness Detection**<br/>Real-time driver fatigue detection system using a TFLite-quantized CNN model for low-latency inference on cloud servers. | `Python`<br/>`TensorFlow`<br/>`TFLite`<br/>`OpenCV`<br/>`Flask` | [🌐 **Live Demo**](https://driveguard-p6ns.onrender.com/)<br/>[💻 **GitHub**](https://github.com/Surieyaa/driveguard-project) |
+| **⚡ Energy Predictor** | **Consumption & Recommendation**<br/>Predictive electricity consumption forecasting model integrating historical usage and weather variables for smart energy savings. | `Python`<br/>`Pandas`<br/>`Scikit-learn`<br/>`Matplotlib` | [💻 **GitHub**](https://github.com/Surieyaa/energy_recomendation_project) |
 
 <br/>
 
