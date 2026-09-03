@@ -23,7 +23,7 @@
 I'm a **B.Tech AI &amp; Data Science** engineer (CGPA **8.45/10**) at Dhaanish Ahmed College of Engineering who ships — not just trains models in a notebook and stops. Across **7+ full-stack ML projects**, I've owned the complete pipeline: data preprocessing → feature engineering → model tuning → deployment on Streamlit Cloud / Render, with real, clickable live demos.
 
 - 🌐 **Interactive Portfolio:** [**surieyaa.vercel.app**](https://surieyaa.vercel.app/) — live demos, architecture breakdowns &amp; interactive projects
-- 🔭 Currently building **FitAI Pro** — a Flask-based AI fitness &amp; nutrition platform with a RAG chatbot
+- 🔭 Currently building **PulseFit AI** — a real-time computer vision personal AI gym trainer &amp; form-coaching platform
 - 🌱 Deep focus on **model calibration, threshold optimization, and production deployment under real-world constraints** (e.g., free-tier RAM limits)
 - 🗣️ JLPT N5 certified in Japanese | 150+ problems solved on HackerRank, LeetCode &amp; CodeChef
 - 💬 Ask me about **Random Forest / SVM pipelines, CNN deployment, or Streamlit/Flask productionization**
@@ -82,6 +82,18 @@ I'm a **B.Tech AI &amp; Data Science** engineer (CGPA **8.45/10**) at Dhaanish A
 ## 🚀 Featured Projects
 
 <br/>
+
+### 🏋️‍♂️ PulseFit AI — Personal AI Gym Trainer
+**An intelligent real-time computer vision workout assistant and posture coaching platform.**
+
+- **Real-Time Pose Estimation & Form Analysis:** Leverages **MediaPipe** and **OpenCV** to track joint angles and skeletal keypoints in real-time, verifying correct exercise posture (squats, bicep curls, push-ups, lateral raises) and preventing workout injuries.
+- **Automated Repetition Counting:** Uses dynamic joint angle thresholding and state-machine logic to track range of motion (ROM) and accurately count reps without manual intervention.
+- **Instant Visual & Audio Feedback:** Delivers immediate corrective cues (e.g., *"keep back straight"*, *"lower your hips"*, *"extend arms fully"*) through live on-screen HUD overlays and voice prompts.
+- **Workout Analytics & Progress Tracking:** Logs workout duration, rep tempo, form accuracy percentages, and estimated caloric expenditure across sets.
+
+`Python` `MediaPipe` `OpenCV` `Computer Vision` `Scikit-learn` `Flask` `Streamlit`
+
+---
 
 ### 🎓 SnapClass — Face Recognition Attendance System
 **Automated a manual, error-prone attendance process with real-time computer vision.**
@@ -199,18 +211,7 @@ I'm a **B.Tech AI &amp; Data Science** engineer (CGPA **8.45/10**) at Dhaanish A
 - 🎓 **CGPA 8.45/10** — B.Tech Artificial Intelligence &amp; Data Science
 - 🌐 Bilingual: English &amp; Japanese (JLPT N5)
 
-<br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Surieyaa&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Surieyaa&amp;theme=radical&amp;hide_border=true" width="48%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surieyaa&amp;layout=compact&amp;theme=radical&amp;hide_border=true" width="50%"/>
-</div>
 
 <br/>
 
